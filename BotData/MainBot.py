@@ -27,7 +27,7 @@ bot = Bot(
     )
 #hashtag list to tag in a media
 hashtagList = [
-            '#ecommerce'
+            '#تدريب_شخصي'
 ]
 
 #Program For Unfollow Everyone
